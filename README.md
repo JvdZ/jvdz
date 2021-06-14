@@ -1,6 +1,6 @@
 ## Hi, I'm Jerry 👋 I'm a Freelance Front-end Developer
 
-💜 loving React, Next.js, GraphQL, TypeScript, Node.js
+💜 loving React, Next.js, Vue.js, Nuxt.js, GraphQL, TypeScript, Node.js
 
 🏡 [website][website] **|**
 🐦 [twitter][twitter] **|**
