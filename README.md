@@ -1,4 +1,4 @@
-## Hi, I'm Jerry 👋 I'm a Freelance Front-end Developer
+## Hi, I'm Jerry 👋 I'm a Full Stack Developer
 
 💜 loving React, Next.js, Vue.js, Nuxt.js, GraphQL, TypeScript, Node.js
 
