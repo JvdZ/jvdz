@@ -1,11 +1,11 @@
 ## Hello, I'm Jerry 👋 I'm a Full Stack Developer
 
-💜 loving React, Next.js, Vue.js, Nuxt.js, GraphQL, TypeScript, Node.js
+💜 loving React, Next.js, Vue.js, Nuxt.js, TypeScript, Node.js, PostgreSQL
 
 🏡 [website][website] **|**
-🐦 [twitter][twitter] **|**
+𝕏 [x][x] **|**
 👔 [linkedin][linkedin]
 
 [website]: https://jvdz.nl
-[twitter]: https://twitter.com/jvdz
+[x]: https://x.com/jvdz
 [linkedin]: https://linkedin.com/in/jvdz
