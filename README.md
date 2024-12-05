@@ -3,9 +3,9 @@
 💜 loving React, Next.js, Vue.js, Nuxt.js, TypeScript, Node.js, PostgreSQL
 
 🏡 [website][website] **|**
-𝕏 [x][x] **|**
+🦋 [bluesky][bluesky] **|**
 👔 [linkedin][linkedin]
 
 [website]: https://jvdz.nl
-[x]: https://x.com/jvdz
+[bluesky]: https://bsky.app/profile/jvdz.nl
 [linkedin]: https://linkedin.com/in/jvdz
